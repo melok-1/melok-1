@@ -1,4 +1,4 @@
-## Hi there 👋
+## Contributions
 ![Snake animation](https://raw.githubusercontent.com/melok-1/melok-1/output/github-contribution-grid-snake-dark.svg)
 <!--
 **melok-1/melok-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
