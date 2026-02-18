@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Snake animation](https://github.com/melok-1/melok-1/blob/output/github-contribution-grid-snake.svg)
 <!--
 **melok-1/melok-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
